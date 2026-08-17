@@ -1,0 +1,6 @@
+{
+  "name": "Precious Restaurant",
+  "description": "Official website for Precious Restaurant featuring online food ordering, table reservations, chef-crafted menu, and dining gallery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
